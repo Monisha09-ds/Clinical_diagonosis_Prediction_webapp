@@ -1,4 +1,3 @@
-# Clinical_diagonosis_Prediction_webapp
 
 # Clinical Diagnosis Prediction WebApp
 
