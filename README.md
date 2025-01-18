@@ -16,7 +16,7 @@ Welcome to the **Clinical Diagnosis Prediction WebApp** repository! This project
 - **Web Framework**: Streamlit
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 - **Visualization Tools**: Matplotlib, Seaborn, Plotly
-- **Deployment**: Streamlit Sharing / Cloud Service
+- **Deployment**: Streamlit 
 
 ## Installation
 
